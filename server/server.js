@@ -13,9 +13,13 @@ app.get('/', (req, res) => {
 app.post('/', (req, res) => {
   const { text } = req.body;
   console.log('Received text:', text);
-  // Process the received text (e.g., save it to a database)
-  // Respond with a success message
-  res.json({ message: 'Text received successfully' });
+  res.json({
+    "activities": [
+      {"name": "Activity 1", "cost": 100, "duration": "1 hour"},
+      {"name": "Activity 2", "cost": 50, "duration": "30 minutes"},
+      {"name": "Activity 3", "cost": 200, "duration": "2 hours"}
+    ]
+  });
 });
 
 // Start the server
