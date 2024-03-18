@@ -12,6 +12,7 @@ llmModel = ActivityRecommendation()
 class LLM(APIView):
     def post(self, request, format=None):
         data = request.data
+
         logger.log(data)
         tokens = llmModel.breakdown(data.get("text"))["args"]["params"]
         model = TravelPlanner(tokens["duration"], tokens["budget"])

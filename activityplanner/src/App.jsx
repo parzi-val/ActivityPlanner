@@ -2,6 +2,24 @@ import { useState } from 'react';
 import './App.css';
 import React from 'react';
 import Collapsible from 'react-collapsible';
+import { Link } from 'react-router-dom'
+function ActivityBox({ activity }) {
+  return (
+    <div className="activitybox">
+      <Collapsible trigger={`v`}>
+        <div id="additional" className="additional-content">
+          <p>{activity.categoryName}</p>
+          <p>Address: {activity.address}</p>
+          <a target = "_blank" href={activity.url}>Google maps</a>
+          <p>Ph: {activity.phone}</p>
+        </div>
+      </Collapsible>
+      <div className="time-frame">{activity.time} HOURS</div>
+      <div className="activity">{activity.title}</div>
+      <div>$ {activity.price}</div>
+    </div>
+  );
+}
 
 function App() {
   const [inputText, setInputText] = useState('');
@@ -48,7 +66,7 @@ function App() {
 
   return (
     <>
-    <header className="header">       
+      <header className="header">       
         <div className="text-box">
             <h1 className="heading-primary">
                 <span className="heading-primary-main">Vacation Planner<br></br></span>
@@ -71,27 +89,20 @@ function App() {
       )}
       {/* Render the received activities */}
       {showActivity && activities && (
-  <div className="activities">
-    <h2>Activities</h2>
-    <div>
-      {activities.length > 0 ? (
-        activities.map((activity, index) => (
-          <div key = {index} id="itinerary" className="box-container">
-            
-            <div className="activitybox">
-                <div className="time-frame">{activity.Duration} HOURS</div>
-                <div className="activity">{activity.Name}</div>
-                <div>$ {activity.Cost}</div>
-            </div>
+        <div className="activities">
+          <h2>Activities</h2>
+          <div>
+            {activities.length > 0 ? (
+              activities.map((activity, index) => (
+                <ActivityBox key={index} activity={activity} />
+              ))
+            ) : (
+              <p>Activities Loading...</p>
+            )}
           </div>
-        ))
-      ) : (
-        <p>Activities Loading...</p>
+          <button onClick={handleButtonClick}>Go Back</button>
+        </div>
       )}
-    </div>
-    <button onClick={handleButtonClick}>Go Back</button>
-  </div>
-)}
     </>
   );
 }

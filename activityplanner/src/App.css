@@ -3,6 +3,41 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  margin-bottom:24%;
+}
+.Collapsible__contentOuter{
+  width:800px;
+}
+.Collapsible{
+  width: 20px;
+}
+
+.activitybox, #additional {
+  width: 800px;
+  background-color: #390019;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 20px;
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+#additional{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+}
+.card {
+  padding: 2em;
+}
+
+.#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
   margin-bottom:15%;
 }
 
@@ -328,4 +363,3 @@ form {
   top: -12px;
   font-size: 12px;
 }
-
