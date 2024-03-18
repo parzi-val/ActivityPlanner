@@ -11,7 +11,7 @@ function App() {
     setShowInput(!showInput);
     setShowActivity(!showActivity);
     try {
-      const response = await fetch('http://192.168.247.109:8000/backend/recommend/', {
+      const response = await fetch('http://127.0.0.1:8000/backend/recommend/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -24,10 +24,11 @@ function App() {
       }
   
       // Parse the response body as JSON
-      const data = await response.json();
-  
+      let data = await response.json();
+      data = JSON.parse(data);
       // Update the activities state with the received activities
-      setActivities(data.activities);
+      console.log(data);
+      setActivities(data["activities"]);
   
       // Reset input field after successful POST request
       setInputText('');
@@ -39,6 +40,7 @@ function App() {
 
   const handleInputChange = (event) => {
     setInputText(event.target.value);
+    setActivities([]);
   };
 
 
@@ -57,7 +59,7 @@ function App() {
         <div className="box">
           <form id="planner-form">
               <div className="input-container">      
-                  <input value = {inputText} onChange = {handleInputChange} type="text" id="destination" class="form__field" required=""/>
+                  <input value = {inputText} onChange = {handleInputChange} type="text" id="destination" className="form__field" required=""/>
                   <label htmlFor="destination">where to?</label>
               </div>
           </form>
@@ -66,19 +68,23 @@ function App() {
       </div>
       )}
       {/* Render the received activities */}
-      {showActivity && (<div className="activities">
-        <h2>Activities</h2>
-        <div>
-          {activities.map((activity, index) => (
-            <div key={index}>
-              <strong>Name:</strong> {activity.name}, <strong>Cost:</strong> {activity.cost}, <strong>Duration:</strong> {activity.duration}
-            </div>
-          ))}
-        </div>
-        <button onClick={handleButtonClick}>Go Back</button>
-      </div>
-      
+      {showActivity && activities && (
+  <div className="activities">
+    <h2>Activities</h2>
+    <div>
+      {activities.length > 0 ? (
+        activities.map((activity, index) => (
+          <div key={index}>
+            <strong>Name:</strong> {activity.Name}, <strong>Cost:</strong> {activity.Cost}, <strong>Duration:</strong> {activity.Duration}
+          </div>
+        ))
+      ) : (
+        <p>Activities Loading...</p>
       )}
+    </div>
+    <button onClick={handleButtonClick}>Go Back</button>
+  </div>
+)}
     </>
   );
 }
