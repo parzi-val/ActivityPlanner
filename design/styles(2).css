@@ -1,0 +1,105 @@
+@font-face {
+    font-family: 'Yellowtail';
+    src: url('Yellowtail-Regular.otf') format('opentype'); /* Specify the path to your Yellowtail font file */
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body {
+    font-family: 'Yellowtail', sans-serif; /* Use Yellowtail font for headings */
+    text-align: center;
+    letter-spacing: 5px;
+    animation: theme 21s linear infinite;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: url('plswork.gif') center center fixed;
+    background-size: cover;
+    padding-right: 5%; 
+}
+
+.header {
+    margin-top: 27px;
+    color: #6a2700;
+    text-align: center;
+}
+
+.heading-primary-main {
+    display: inline-block;
+    font-size: 70px;
+    width: 100%
+}
+
+.heading-secondary {
+    font-size: 35px;
+    line-height: 0.5; 
+}
+
+.text-box {
+    margin-bottom: 40px;
+}
+
+/* Add button style */
+.custom-button {
+    color: #000000;
+    background-color: #ff984a;
+    outline: none;
+    border: 0;
+    text-transform: uppercase;
+    padding: 15px 24px; /* Adjust padding */
+    border-radius: 20px; /* Rounded edges */
+    cursor: pointer;
+    font-family: 'EB Garamond', sans-serif; /* Use Open Sans Bold font for button */
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+
+.input-container {
+    position: relative;
+    margin-bottom: 10px;
+    text-align: left; 
+    width: 70%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    flex-grow: 1; 
+}
+
+.input-container input {
+    border: 0;
+    border-bottom: 1px solid #555;
+    background: transparent;
+    width: calc(100% - 100px); /* Adjust width to fill container */
+    padding: 8px 20px; /* Adjust padding */
+    font-size: 16px;
+    color: #fff;
+    outline: none;
+    margin-left: 40px;
+    margin-right: 55px;
+}
+
+/* Adjust label to left align */
+.input-container label {
+    font-family: 'EB Garamond', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+    left: 50px; /* Adjust left position */
+    font-size: 16px;
+    color: #000000;
+    pointer-events: none;
+    transition: all 0.5s ease-in-out;
+}
+
+.input-container input:focus {
+    border-bottom: 1px solid #b19cd9;
+}
+
+.input-container input:focus ~ label,
+.input-container input:valid ~ label {
+    top: -12px;
+    font-size: 12px;
+}
