@@ -16,6 +16,7 @@ class LLM(APIView):
         data = request.data
         print(data.get("text"))
         pre = model.breakdown(data.get("text"))["args"]["params"]
-        processed_data = model.gensets(pre["budget"],pre["duration"])["args"]["places"]
-        return Response(processed_data, status=status.HTTP_200_OK)
+        processed_data = model.gensets(pre["budget"],pre["duration"])
+        print(json.dumps(processed_data))
+        return Response(model.plan(json.dumps(processed_data)), status=status.HTTP_200_OK)
 
