@@ -1,0 +1,3823 @@
+[{
+  "title": "Prakruthi Vana",
+  "categoryName": "Park",
+  "address": "WHPH+FWM, Jayanagar, Bengaluru, Karnataka 560070, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9362209,
+    "lng": 77.5797912
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 to 10 AM, 4 to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 to 10 AM, 4 to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 to 10 AM, 4 to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 to 10 AM, 4 to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 to 10 AM, 4 to 9 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 to 10 AM, 4 to 9 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 AM to 1 PM, 4 to 9 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Prakruthi%20Vana&query_place_id=ChIJG8SeQ6YVrjsR5MGvmxeD8vs"
+},
+{
+  "title": "Museum of Art & Photography (MAP)",
+  "categoryName": "Art museum",
+  "address": "22, Kasturba Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+  "phone": "+91 80 6933 4100",
+  "location": {
+    "lat": 12.9746578,
+    "lng": 77.5969632
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 6:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 6:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 6:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 6:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 7:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 7:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Art%20%26%20Photography%20(MAP)&query_place_id=ChIJK3WK06kXrjsRtJJUPxlNE4A"
+},
+{
+  "title": "Venkatappa Art Gallery Bengaluru",
+  "categoryName": "Art gallery",
+  "address": "XHFW+P4R, Kasturba Rd, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001, India",
+  "phone": "+91 80 2286 4483",
+  "location": {
+    "lat": 12.9742357,
+    "lng": 77.5953023
+  },
+  
+  "openingHours": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Venkatappa%20Art%20Gallery%20Bengaluru&query_place_id=ChIJKW2JvnAWrjsRUhxNZVxBjBc"
+},
+{
+  "title": "Tree Fossil",
+  "categoryName": "Tourist attraction",
+  "address": "LALBAGH PARK, Mavalli, Bengaluru, Karnataka 560004, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9505293,
+    "lng": 77.5838278
+  },
+  
+  "openingHours": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Tree%20Fossil&query_place_id=ChIJU_hy7ukVrjsRAs2LcPlVf3o"
+},
+{
+  "title": "Government Aquarium",
+  "categoryName": "Aquarium",
+  "address": "XHGX+JC3, Kasturba Rd, Shanthala Nagar, Bengaluru, Karnataka 560001, India",
+  "phone": "+91 80 2286 7440",
+  "location": {
+    "lat": 12.9765148,
+    "lng": 77.5985397
+  },
+  
+  "openingHours": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Government%20Aquarium&query_place_id=ChIJSXQE4HAWrjsRyeiku6FOYT4"
+},
+{
+  "title": "Karnataka Hikes",
+  "categoryName": "Outdoor activity organiser",
+  "address": "19/20, 5th Cross Rd, Kathriguppe IV Phase, Gururaja Layout, Banashankari, Bengaluru, Karnataka 560085, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9213142,
+    "lng": 77.5576485
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 10 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Karnataka%20Hikes&query_place_id=ChIJ-e58-qETrjsRHJ1HXQJSIR8"
+},
+{
+  "title": "Government Museum",
+  "categoryName": "Museum",
+  "address": "Venkatappa Art Gallery Building, Kasturba Rd, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001, India",
+  "phone": "+91 80 2235 2828",
+  "location": {
+    "lat": 12.9746376,
+    "lng": 77.595827
+  },
+  
+  "openingHours": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Government%20Museum&query_place_id=ChIJHfOennAWrjsRzNoMSHtNB0c"
+},
+{
+  "title": "Vishweshvarayya Park",
+  "categoryName": "Park",
+  "address": "XGRP+2GR, 1st F Cross Rd, 4th Block, Sharada Colony, West of Chord Road 1st Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9901026,
+    "lng": 77.5362656
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "4 AM to 12:30 PM, 4 to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "4 AM to 12:30 PM, 4 to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "4 AM to 12:30 PM, 4 to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "4 AM to 12:30 PM, 4 to 9 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "4 AM to 12:30 PM, 1 to 9 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "4 AM to 9 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Vishweshvarayya%20Park&query_place_id=ChIJsbm2_749rjsRnPMHUeQLCSY"
+},
+{
+  "title": "Vidhana Soudha View Point",
+  "categoryName": "Park",
+  "address": "XHHR+8RR, Ambedkar Veedhi, Sampangi Rama Nagara, Bengaluru, Karnataka 560001, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9783529,
+    "lng": 77.5920039
+  },
+  
+  "openingHours": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Vidhana%20Soudha%20View%20Point&query_place_id=ChIJVdAjQQkXrjsRKliATEcjcpQ"
+},
+{
+  "title": "Kodandarama Devasthana",
+  "categoryName": "Hindu temple",
+  "address": "XH8V+8MV, Double Rd, Sampangi Rama Nagara, Bengaluru, Karnataka 560027, India",
+  "phone": "+91 40 2225 3555",
+  "location": {
+    "lat": 12.9658531,
+    "lng": 77.5941669
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7:30 AM to 8:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7:30 AM to 8:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7:30 AM to 8:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7:30 AM to 8:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7:30 AM to 8:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7:30 AM to 8:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7:30 AM to 8:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Kodandarama%20Devasthana&query_place_id=ChIJ06QtaNgVrjsRX4byx5UffBI"
+},
+{
+  "title": "Shamanna Park",
+  "categoryName": "Park",
+  "address": "WHQC+4J9, !st, Model House St, NR Colony, Basavanagudi, Bengaluru, Karnataka 560004, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9378,
+    "lng": 77.5716
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5:30 to 10 AM, 4:30 to 8:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5:30 to 10 AM, 4:30 to 8:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5:30 to 10 AM, 4:30 to 8:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5:30 to 10 AM, 4:30 to 8:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5:30 to 10 AM, 4:30 to 8:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5:30 to 10 AM, 4:30 to 8:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5:30 to 10 AM, 3:30 to 8:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Shamanna%20Park&query_place_id=ChIJI96R2I0VrjsRT0iAqQH9Kmo"
+},
+{
+  "title": "Makkala Koota Park",
+  "categoryName": "Park",
+  "address": "XH5F+32J, Pampa Mahakavi Rd, Chamrajpet, Bengaluru, Karnataka 560004, India",
+  "phone": "+91 80 2670 6109",
+  "location": {
+    "lat": 12.9577166,
+    "lng": 77.5725009
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5 to 9 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5 to 9 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 to 9 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 to 9 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 to 9 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 to 9 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5 to 9 AM, 4 to 8 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Makkala%20Koota%20Park&query_place_id=ChIJg7JtJ_sVrjsRv8DatvtFe2M"
+},
+{
+  "title": "Gandhi Bhavana",
+  "categoryName": "Museum",
+  "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+  "phone": "+91 80 2235 2828",
+  "location": {
+    "lat": 12.987898,
+    "lng": 77.580233
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Gandhi%20Bhavana&query_place_id=ChIJbbVj6RUWrjsRuw1R0QMR6vY"
+},
+{
+  "title": "The Weekend Dog Park @ Cubbon Park",
+  "categoryName": "Dog park",
+  "address": "Sheshadri Iyer Memorial Hall, Nunegundlapalli, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9743559,
+    "lng": 77.5901927
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Friday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7:30 AM to 1:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Weekend%20Dog%20Park%20%40%20Cubbon%20Park&query_place_id=ChIJuVgFgnEWrjsR-jcYeHw5XZ8"
+},
+{
+  "title": "Kempambudhi Kere Park",
+  "categoryName": "Park",
+  "address": "XH36+6G2, Nanjamba Agrahara, Chamrajpet, Bengaluru, Karnataka 560019, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9530138,
+    "lng": 77.561259
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 to 9 AM, 4 to 7 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 to 9 AM, 4 to 7 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 to 9 AM, 4 to 7 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 to 9 AM, 4 to 7 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 to 9 AM, 4 to 7 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 to 9 AM, 4 to 7 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 to 9 AM, 4 to 7 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Kempambudhi%20Kere%20Park&query_place_id=ChIJ1UouXR0-rjsR-h63apMUyEw"
+},
+{
+  "title": "Maha Bodhi Society",
+  "categoryName": "Monastery",
+  "address": "14, Kavi Kalidasa Road, Gandhi Nagar, Bengaluru, Karnataka 560009, India",
+  "phone": "+91 97316 35108",
+  "location": {
+    "lat": 12.9784856,
+    "lng": 77.5810225
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 7 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Maha%20Bodhi%20Society&query_place_id=ChIJx8icchIWrjsRHc6WKZAj9bo"
+},
+{
+  "title": "Kanakagiri Udyanavana",
+  "categoryName": "Park",
+  "address": "XGGP+G2X, 7th Cross Rd, Govindaraja Nagar Ward, Govindaraja Nagar, Vijayanagar, Bengaluru, Karnataka 560040, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9763685,
+    "lng": 77.5350961
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5:30 to 9 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5:30 to 9 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5:30 to 9 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5:30 to 9 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5:30 to 9 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5:30 to 9 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5:30 to 9 AM, 4:30 to 8 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Kanakagiri%20Udyanavana&query_place_id=ChIJJY6wCLo9rjsRV4-EEn70LLo"
+},
+{
+  "title": "Ammembal Subbarao Garden",
+  "categoryName": "Park",
+  "address": "XG7F+QGF, Nagarabhavi Main Rd, Canara Bank Colony, Govindaraja Nagar Ward, Bengaluru, Karnataka 560072, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9644471,
+    "lng": 77.5237976
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5 to 9 AM, 5 to 8:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5 to 9 AM, 5 to 8:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 to 9 AM, 5 to 8:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 to 9 AM, 5 to 8:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 to 9 AM, 5 to 8:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 to 9 AM, 5 to 8:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5 to 9 AM, 5 to 8:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Ammembal%20Subbarao%20Garden&query_place_id=ChIJ5UikJNY9rjsRvOwvQjAktcQ"
+},
+{
+  "title": "Kote Shri Prasanna Venkataramana Swami Temple",
+  "categoryName": "Hindu temple",
+  "address": "39, Krishna Rajendra Rd, Kalasipalya, Bengaluru, Karnataka 560002, India",
+  "phone": "+91 80 2235 2828",
+  "location": {
+    "lat": 12.9595393,
+    "lng": 77.5740643
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 12 PM, 6 to 8:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 12 PM, 6 to 8:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 12 PM, 6 to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 12 PM, 6 to 8:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 12 PM, 6 to 8 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7 AM to 1:45 PM, 5:45 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 12 PM, 6 to 8:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Kote%20Shri%20Prasanna%20Venkataramana%20Swami%20Temple&query_place_id=ChIJ3SALuuQVrjsRbP88lmRxuZs"
+},
+{
+  "title": "Bangalore",
+  "categoryName": "Tourist attraction",
+  "address": "Vidhana Soudha, Devaraj Urs Rd, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9796734,
+    "lng": 77.5912443
+  },
+  
+  "openingHours": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bangalore&query_place_id=ChIJDWSnxo8XrjsR7XvqT-V8XkA"
+},
+{
+  "title": "Rage Room Bangalore",
+  "categoryName": "Tourist attraction",
+  "address": "metro station and Pai Vista Convention Hall, 14-3, Pattalamma Temple Rd, near South End Circle, Basavanagudi, Bengaluru, Karnataka 560070, India",
+  "phone": "+91 86188 14631",
+  "location": {
+    "lat": 12.9384263,
+    "lng": 77.5791522
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 9:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 9:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 9:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 9:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 9:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 9:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Rage%20Room%20Bangalore&query_place_id=ChIJAQhx3hMVrjsR9xKKAqbages"
+},
+{
+  "title": "Department of Archaeology and Museums",
+  "categoryName": "Museum",
+  "address": "XHFW+V84 Venkatappa Art Gallery Building, Kasturba Rd, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001, India",
+  "phone": "+91 80 2286 4483",
+  "location": {
+    "lat": 12.97465,
+    "lng": 77.5958911
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 5 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Department%20of%20Archaeology%20and%20Museums&query_place_id=ChIJqyoigt8VrjsRruQyccBZzHI"
+},
+{
+  "title": "Banna Graffiti Wall",
+  "categoryName": "Artist",
+  "address": "XG56+6MQ, 2nd Cross Rd, Nrupatunga Nagar, NGEF Layout, Stage 2, Chandra Layout, Bengaluru, Karnataka 560056, India",
+  "phone": "+91 80 2266 0000",
+  "location": {
+    "lat": 12.958081,
+    "lng": 77.5117411
+  },
+  
+  "openingHours": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Banna%20Graffiti%20Wall&query_place_id=ChIJd1o8Ta0_rjsRyFdq_7XPwQg"
+},
+{
+  "title": "Jayanagara Park",
+  "categoryName": "Park",
+  "address": "438, 21st Cross Rd, Jaya Nagar 1st Block, Jayanagar 3rd Block, Jayanagar, Bengaluru, Karnataka 560011, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9338816,
+    "lng": 77.5872718
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5 to 9 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5 to 9 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 to 9 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 to 9 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 to 9 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 to 9 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5 to 9 AM, 4:30 to 8 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Jayanagara%20Park&query_place_id=ChIJ4ym2PL0VrjsRKzpDmQbYGWk"
+},
+{
+  "title": "Yediyuru Lake Park",
+  "categoryName": "Park",
+  "address": "Shop No. 1, 22nd Cross Rd, Yadiyur, Jayanagar, Bengaluru, Karnataka 560082, India",
+  "phone": "+91 80 2235 2828",
+  "location": {
+    "lat": 12.93263,
+    "lng": 77.5771149
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5 to 10 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5 to 10 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 to 10 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 to 10 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 to 10 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 to 10 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5 to 10 AM, 4 to 8 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Yediyuru%20Lake%20Park&query_place_id=ChIJ-WAdnZAVrjsRThpPifox97Q"
+},
+{
+  "title": "I love Bengaluru",
+  "categoryName": "Tourist attraction",
+  "address": "I, love bangalore statue, Sankey Rd, High Grounds, Bengaluru, Karnataka 560001, India",
+  "phone": "+91 80 2223 0060",
+  "location": {
+    "lat": 12.9834084,
+    "lng": 77.591574
+  },
+  
+  "openingHours": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=I%20love%20Bengaluru&query_place_id=ChIJvRfw0cAXrjsR25BzNnOYcUw"
+},
+{
+  "title": "Kempegowda Tower",
+  "categoryName": "Historical landmark",
+  "address": "XH9Q+4H3, Sampangi Rama Nagar, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9677649,
+    "lng": 77.5889344
+  },
+  
+  "openingHours": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20Tower&query_place_id=ChIJr4xKknUWrjsRRuEaMMcIGH8"
+},
+{
+  "title": "National Military Memorial Park",
+  "categoryName": "Park",
+  "address": "2, Millers Road, Vasanth Nagar, Bengaluru, Karnataka 560051, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9854791,
+    "lng": 77.5904847
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 AM to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 AM to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 AM to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 AM to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 AM to 9 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 AM to 9 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 AM to 9 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=National%20Military%20Memorial%20Park&query_place_id=ChIJP4i732sWrjsR_2ctlGEZYzA"
+},
+{
+  "title": "National Gallery of Modern Art (Bengaluru)",
+  "categoryName": "Modern art museum",
+  "address": "49, GF, Manikyavelu Mansion, Palace Rd, Vasanth Nagar, Bengaluru, Karnataka 560052, India",
+  "phone": "+91 80 2234 2338",
+  "location": {
+    "lat": 12.9894116,
+    "lng": 77.5880553
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 7:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 7:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20of%20Modern%20Art%20(Bengaluru)&query_place_id=ChIJqZQybIEWrjsRezNLL4Ju2Gk"
+},
+{
+  "title": "Peek Into Nature",
+  "categoryName": "Education center",
+  "address": "21, Papaiah Rd, Doddamavalli, Mavalli, Bengaluru, Karnataka 560004, India",
+  "phone": "+91 98447 94018",
+  "location": {
+    "lat": 12.952658,
+    "lng": 77.5828488
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Peek%20Into%20Nature&query_place_id=ChIJsXV9lAUVrjsRGZ9_1eGgq7E"
+},
+{
+  "title": "Shri Gavi Gangadhareshwara Swamy Devasthana",
+  "categoryName": "Hindu temple",
+  "address": "WHX7+754, 5th Main Rd, Gavipuram Extention, Kempegowda Nagar, Bengaluru, Karnataka 560019, India",
+  "phone": "+91 80 2235 2828",
+  "location": {
+    "lat": 12.9481464,
+    "lng": 77.5629406
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 to 11 AM, 5:30 to 8:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 to 11 AM, 5:30 to 8:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 to 11 AM, 5:30 to 8:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 to 11 AM, 5:30 to 8:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 to 11 AM, 5:30 to 8:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 to 11 AM, 5:30 to 8:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 to 11 AM, 5:30 to 8:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Shri%20Gavi%20Gangadhareshwara%20Swamy%20Devasthana&query_place_id=ChIJh6gk5PUVrjsRT9dhFc5-nrI"
+},
+{
+  "title": "Ashoka Pillar Monument",
+  "categoryName": "Historical landmark",
+  "address": "WHVP+F38, Kankanpalya Rd, 2nd Block, Mavalli, Bengaluru, Karnataka 560004, India",
+  "phone": "+91 1800 425 8666",
+  "location": {
+    "lat": 12.9436747,
+    "lng": 77.5851988
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Ashoka%20Pillar%20Monument&query_place_id=ChIJK5UVK5UVrjsRMFgrDKedF5E"
+},
+{
+  "title": "HAL Aircraft Display",
+  "categoryName": "Tourist attraction",
+  "address": "XHJW+7R8, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001, India",
+  "phone": "+91 80 2235 2828",
+  "location": {
+    "lat": 12.9806644,
+    "lng": 77.5970675
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=HAL%20Aircraft%20Display&query_place_id=ChIJr08EcGUWrjsRN8fdUiYu3DM"
+},
+{
+  "title": "Tipu Sultan's Armoury",
+  "categoryName": "Historical place",
+  "address": "XH5G+44F, Kalasipalam New Exte, City Market, Bengaluru, Karnataka 560002, India",
+  "phone": "+91 80 2235 2828",
+  "location": {
+    "lat": 12.9578228,
+    "lng": 77.5752983
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 6 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Tipu%20Sultan's%20Armoury&query_place_id=ChIJdda0AuUVrjsR2LwvE8z7ITc"
+},
+{
+  "title": "Indiragandhi Musical Fountain Park",
+  "categoryName": "Park",
+  "address": "XHPR+4MV, Raj Bhavan Rd, Opposite to Jawahar Lal Nehru Planetarium, Vasanth Nagar, Bengaluru, Karnataka 560051, India",
+  "phone": "+91 98458 40312",
+  "location": {
+    "lat": 12.9853733,
+    "lng": 77.5916839
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 8:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 8:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 8:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 8:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 8:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 8:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 8:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Indiragandhi%20Musical%20Fountain%20Park&query_place_id=ChIJ7ywPXWkWrjsROJGazHbfZhg"
+},
+{
+  "title": "Glass House, Lalbagh Botanical Garden",
+  "categoryName": "Botanical garden",
+  "address": "WHXP+WM6, Mavalli, Bengaluru, Karnataka 560004, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9497909,
+    "lng": 77.5866423
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 AM to 7 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 AM to 7 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 AM to 7 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 AM to 7 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 AM to 7 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 AM to 7 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 AM to 7 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Glass%20House%2C%20Lalbagh%20Botanical%20Garden&query_place_id=ChIJ0cHJam8VrjsRL2bsDesm1r4"
+},
+{
+  "title": "NIMHANS Brain Museum",
+  "categoryName": "Museum",
+  "address": "Hosur Main Road, Lakkasandra, Laljinagar, Wilson Garden, Bengaluru, Karnataka 560029, India",
+  "phone": "+91 80 2699 5786",
+  "location": {
+    "lat": 12.9399822,
+    "lng": 77.597732
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "2:30 to 4:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Friday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10:30 AM to 4:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=NIMHANS%20Brain%20Museum&query_place_id=ChIJAUBCIrcVrjsRzc0opQv6QrU"
+},
+{
+  "title": "Ranadheera Kanteerava Park || Jaya Nagar || Bengaluru",
+  "categoryName": "Park",
+  "address": "WHMH+QWG, Rashtriya Vidyalaya Rd, Jayanagar, Bengaluru, Karnataka 560041, India",
+  "phone": "+91 80 2223 0060",
+  "location": {
+    "lat": 12.9344251,
+    "lng": 77.5798235
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5 to 10 AM, 4 to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5 to 9 AM, 4 to 7 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 to 9 AM, 4 to 7 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 to 9 AM, 4 to 7 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 to 9 AM, 4 to 7 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 to 9 AM, 4 to 7 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5 to 10 AM, 4 to 9 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Ranadheera%20Kanteerava%20Park%20%7C%7C%20Jaya%20Nagar%20%7C%7C%20Bengaluru&query_place_id=ChIJTeAgMJcVrjsRSUCI3unhuIQ"
+},
+{
+  "title": "View point",
+  "categoryName": "Tourist attraction",
+  "address": "10 Bengaluru, Veerabhadra Nagar, Banashankari 3rd Stage, Bengaluru, Karnataka 560085, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9385911,
+    "lng": 77.5375304
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=View%20point&query_place_id=ChIJg0yo9EA-rjsRWwVnFiztO4c"
+},
+{
+  "title": "Freedom Park",
+  "categoryName": "Tourist attraction",
+  "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, Karnataka 560009, India",
+  "phone": "+91 11 2371 5084",
+  "location": {
+    "lat": 12.9779159,
+    "lng": 77.5821884
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5 to 8:30 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5 to 8:30 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 to 8:30 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 to 8:30 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 to 8:30 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 to 8:30 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5 to 8:30 AM, 4 to 8 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Freedom%20Park&query_place_id=ChIJX5m7gw0WrjsRtuZKH4Cp8xY"
+},
+{
+  "title": "Floral Clock",
+  "categoryName": "Tourist attraction",
+  "address": "LALBAGH PARK, Lal Bagh Main Rd, Mavalli, Bengaluru, Karnataka 560004, India",
+  "phone": "+91 80 2656 4133",
+  "location": {
+    "lat": 12.9518954,
+    "lng": 77.5848933
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 AM to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 AM to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 AM to 6 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 AM to 6 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Floral%20Clock&query_place_id=ChIJlwYM2OkVrjsRmiYdqnw9PGg"
+},
+{
+  "title": "‌Jinke Park",
+  "categoryName": "Park",
+  "address": "Nanjamba Agrahara, Kempegowda Nagar, Bengaluru, Karnataka 560019, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9516245,
+    "lng": 77.5572848
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5 to 10 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5 to 10 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 to 10 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 to 10 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 to 10 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 to 10 AM, 4 to 8 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5 to 10 AM, 4 to 8 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=%E2%80%8CJinke%20Park&query_place_id=ChIJmxdChRw-rjsRkf0YZYm-0Yw"
+},
+{
+  "title": "Visvesvaraya Industrial & Technological Museum",
+  "categoryName": "Science museum",
+  "address": "5216, Kasturba Rd, Near Chinna Swamy Stadium, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
+  "phone": "+91 80 2286 6200",
+  "location": {
+    "lat": 12.9750417,
+    "lng": 77.5965348
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9:30 AM to 5:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Visvesvaraya%20Industrial%20%26%20Technological%20Museum&query_place_id=ChIJqyoigt8VrjsRp_hKR5Y_1X8"
+},
+{
+  "title": "Jawaharlal Nehru Planetarium",
+  "categoryName": "Planetarium",
+  "address": "Sri T, Sankey Rd, High Grounds, Bengaluru, Karnataka 560001, India",
+  "phone": "+91 80 2237 9725",
+  "location": {
+    "lat": 12.9848665,
+    "lng": 77.5896341
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 5:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 5:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 5:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 5:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 5:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 5:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Jawaharlal%20Nehru%20Planetarium&query_place_id=ChIJH1ja7WsWrjsRNSg89ukafXU"
+},
+{
+  "title": "Lalbagh Botanical Garden",
+  "categoryName": "Botanical garden",
+  "address": "Mavalli, Bengaluru, Karnataka 560004, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9494158,
+    "lng": 77.5846805
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 AM to 7 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 AM to 7 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 AM to 7 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 AM to 7 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 AM to 7 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 AM to 7 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 AM to 7 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Lalbagh%20Botanical%20Garden&query_place_id=ChIJHdPykcEVrjsRIr4v35kLEY4"
+},
+{
+  "title": "M.N. Krishna Rao Park",
+  "categoryName": "Park",
+  "address": "Dewan Madhava Rao Rd, Basavanagudi, Bengaluru, Karnataka 560004, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9418183,
+    "lng": 77.5752478
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5 to 10 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5 to 10 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 to 10 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 to 10 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 to 10 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 to 10 AM, 4:30 to 8 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5 to 10 AM, 4:30 to 8 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=M.N.%20Krishna%20Rao%20Park&query_place_id=ChIJ4zqO6ZIVrjsRSwuhJweaVJY"
+},
+{
+  "title": "Cubbon Park",
+  "categoryName": "Park",
+  "address": "Kasturba Rd, behind High Court of Karnataka, Ambedkar Veedhi, Sampangi Rama Nagara, Bengaluru, Karnataka 560001, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9779291,
+    "lng": 77.5951549
+  },
+  
+  "openingHours": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cubbon%20Park&query_place_id=ChIJL2fQ53MWrjsRuN9D6aalLMY"
+},
+{
+  "title": "Bugle Rock Park",
+  "categoryName": "Park",
+  "address": "WHV9+3QM, Bull Temple Rd, Basavanagudi, Bengaluru, Karnataka 560019, India",
+  "phone": "+91 80 2235 2828",
+  "location": {
+    "lat": 12.9427052,
+    "lng": 77.5694287
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5:30 to 10 AM, 4 to 8:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5:30 to 10 AM, 4 to 8:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5:30 to 10 AM, 4 to 8:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5:30 to 10 AM, 4 to 8:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5:30 to 10 AM, 4 to 8:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5:30 to 10 AM, 4 to 8:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5:30 to 10 AM, 4 to 8:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bugle%20Rock%20Park&query_place_id=ChIJmwJpvowVrjsR0JVGQxxLHms"
+},
+{
+  "title": "Bengaluru Fort",
+  "categoryName": "Historical landmark",
+  "address": "XH7G+49C, Krishna Rajendra Rd, New Tharagupet, Bengaluru, Karnataka 560002, India",
+  "phone": "+91 80 2235 2828",
+  "location": {
+    "lat": 12.9628018,
+    "lng": 77.5758862
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8:30 AM to 5:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bengaluru%20Fort&query_place_id=ChIJVx06BOMVrjsR1-a9CQJZpLI"
+},
+{
+  "title": "Tipu Sultan's Summer Palace",
+  "categoryName": "Historical place",
+  "address": "XH5F+PFR, Tippu Sultan Palace Rd, Chamrajpet, Bengaluru, Karnataka 560018, India",
+  "phone": "+91 80 2235 2828",
+  "location": {
+    "lat": 12.9593513,
+    "lng": 77.5736415
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8:30 AM to 5:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Tipu%20Sultan's%20Summer%20Palace&query_place_id=ChIJAeY0tOQVrjsRdZ8hleP7aRo"
+},
+{
+  "title": "Hotel Sagar",
+  "categoryName": "Fast food restaurant",
+  "address": "1666A, Dr Rajkumar Rd, Mariappanapalya, Rajajinagar, Bengaluru, Karnataka 560021, India",
+  "phone": "+91 80 2332 5917",
+  "location": {
+    "lat": 12.9967057,
+    "lng": 77.5543489
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 11:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Sagar&query_place_id=ChIJs1OiG489rjsR3OA2ita5gm0"
+},
+{
+  "title": "Sindhoora Gardenia - Kamakya Banashankari",
+  "categoryName": "South Indian restaurant",
+  "address": "SRP Arcade, 3rd Floor, Outer Ring Rd, above Croma - Banashankari, Banashankari 3rd Stage, Bengaluru, Karnataka 560085, India",
+  "phone": "+91 96069 88881",
+  "location": {
+    "lat": 12.9242697,
+    "lng": 77.5529528
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 4 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 4 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 4 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 4 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 4 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 4 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 4 PM, 7 to 11 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Sindhoora%20Gardenia%20-%20Kamakya%20Banashankari&query_place_id=ChIJBbDRtIg_rjsR43rkgDn1Ckc"
+},
+{
+  "title": "Bhanushree bar and restaurant",
+  "categoryName": "Bar",
+  "address": "15th Main Rd, SVGNSS Layout, Teacher's Colony, Basaveshwar Nagar, Bengaluru, Karnataka 560079, India",
+  "phone": "+91 90081 67777",
+  "location": {
+    "lat": 12.9952894,
+    "lng": 77.5374896
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bhanushree%20bar%20and%20restaurant&query_place_id=ChIJdYNeoL09rjsRJ2WRuUlS8O4"
+},
+{
+  "title": "Shankari Bar & Restaurant",
+  "categoryName": "Bar",
+  "address": "10/A, 18th Main Rd, Near-Maharaja Agarsen Hospital, Praghathi Pura, Padmanabhanagar, Bengaluru, Karnataka 560070, India",
+  "phone": "+91 99805 17172",
+  "location": {
+    "lat": 12.9163825,
+    "lng": 77.5547032
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 11 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Shankari%20Bar%20%26%20Restaurant&query_place_id=ChIJA_hpvdM_rjsR0t7MUhD0reQ"
+},
+{
+  "title": "Chinese Wok - Basaveshwar Nagar",
+  "categoryName": "Chinese restaurant",
+  "address": "# 71, Sri Vari Arcade Bhemajothinagar, Shankar Mutt Rd, Vyalikaval HBCS Layout, Basaveshwar Nagar, Bengaluru, Karnataka 560079, India",
+  "phone": "+91 80 4990 0291",
+  "location": {
+    "lat": 12.9985219,
+    "lng": 77.5409804
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 2 AM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Chinese%20Wok%20-%20Basaveshwar%20Nagar&query_place_id=ChIJ8fAtXsY9rjsRTIPI9Sz66NA"
+},
+{
+  "title": "Venkatagiri Bar and Restaurant",
+  "categoryName": "Bar",
+  "address": "Shop No. #196 12th Main Road Manjunatha Nagar, Grihalakshmi Layout, Basaveshwar Nagar, Bengaluru, Karnataka 560010, India",
+  "phone": "+91 80 2322 8600",
+  "location": {
+    "lat": 12.9935211,
+    "lng": 77.5456381
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 1 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 1 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 1 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 1 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 1 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 1 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 1 AM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Venkatagiri%20Bar%20and%20Restaurant&query_place_id=ChIJ9ws-WpE9rjsRLOpEijBzUFw"
+},
+{
+  "title": "Vyashlli Restaurant",
+  "categoryName": "Non vegetarian restaurant",
+  "address": "WHF3+96V, 1st Main Rd, Kamakya Layout, Phase 3, Banashankari, Bengaluru, Karnataka 560085, India",
+  "phone": "+91 80 2679 0111",
+  "location": {
+    "lat": 12.9234764,
+    "lng": 77.5530555
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 10:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Vyashlli%20Restaurant&query_place_id=ChIJd-b-rS0-rjsRxo8MrX0NJLw"
+},
+{
+  "title": "Sri Murari Family Restaurant",
+  "categoryName": "Andhra restaurant",
+  "address": "BSK III, 56, Bhuvaneshwari Nagar, Bengaluru, Karnataka 560085, India",
+  "phone": "+91 90359 92000",
+  "location": {
+    "lat": 12.9222797,
+    "lng": 77.5500051
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11:30 AM to 4 PM, 6 to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11:30 AM to 4 PM, 6 to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11:30 AM to 4 PM, 6 to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11:30 AM to 4 PM, 6 to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11:30 AM to 4 PM, 6 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11:30 AM to 4 PM, 6 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11:30 AM to 4 PM, 6 to 11 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Sri%20Murari%20Family%20Restaurant&query_place_id=ChIJ00CjhjI-rjsRhkQlttXODkU"
+},
+{
+  "title": "Empire Restaurant Rajajinagar",
+  "categoryName": "Non vegetarian restaurant",
+  "address": "Mahalakshmi Puram, 702, Dr MC Modi Hospital Rd, West of Chord Road 2nd Stage, West of Chord Road, Stage 2, Nagapura, Bengaluru, Karnataka 560086, India",
+  "phone": "+91 80 4041 4141",
+  "location": {
+    "lat": 12.9976134,
+    "lng": 77.5466748
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 2 AM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Empire%20Restaurant%20Rajajinagar&query_place_id=ChIJu3I7G109rjsR-uEJv4W-MAg"
+},
+{
+  "title": "Vi Ra's Bar and Restaurant",
+  "categoryName": "Bar",
+  "address": "No. 3828 Dhobighat rd, 30th Cross Rd, Banashankari Stage II, Banashankari, Bengaluru, Karnataka 560070, India",
+  "phone": "+91 98450 63930",
+  "location": {
+    "lat": 12.922198,
+    "lng": 77.5618485
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 11:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Vi%20Ra's%20Bar%20and%20Restaurant&query_place_id=ChIJwwDXnSo-rjsRztuVxgLShFw"
+},
+{
+  "title": "Dose Adda - Padmanabhanagar",
+  "categoryName": "Breakfast restaurant",
+  "address": "opposite Devegowda Petrol Pump, below The Kittur Rani Chennamma Flyover, RK Layout 2nd Stage, Padmanabhanagar, Bengaluru, Karnataka 560070, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9217449,
+    "lng": 77.5599605
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "3:30 to 6:30 AM, 7:30 to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "3:30 to 6:30 AM, 7:30 to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "3:30 to 6:30 AM, 7:30 to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "3:30 to 6:30 AM, 7:30 to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "3:30 to 6:30 AM, 7:30 to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "3:30 to 6:30 AM, 7:30 to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "3:30 to 6:30 AM, 7:30 to 11:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Dose%20Adda%20-%20Padmanabhanagar&query_place_id=ChIJxQ9ocCs_rjsRJfcgIElZoZs"
+},
+{
+  "title": "1947 Restaurant",
+  "categoryName": "North Indian restaurant",
+  "address": "Kathriguppe IV Phase, Gururaja Layout, Banashankari, Bengaluru, Karnataka 560070, India",
+  "phone": "+91 80 2679 1213",
+  "location": {
+    "lat": 12.9227608,
+    "lng": 77.5565319
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 3:15 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 3:15 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 3:15 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 3:15 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 3:15 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 3:15 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 3:15 PM, 7 to 10:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=1947%20Restaurant&query_place_id=ChIJE8R9PncWrjsRWN42hSCHXao"
+},
+{
+  "title": "Manjushree Gowdru Muddhe Mane",
+  "categoryName": "South Indian restaurant",
+  "address": "25, Puttalingiah Rd, RK Layout 2nd Stage, Padmanabhanagar, Bengaluru, Karnataka 560070, India",
+  "phone": "+91 96328 13556",
+  "location": {
+    "lat": 12.9147213,
+    "lng": 77.5590865
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7 AM to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7 AM to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7 AM to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7 AM to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7 AM to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7 AM to 11:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Manjushree%20Gowdru%20Muddhe%20Mane&query_place_id=ChIJr87PKtQ_rjsR5EKqzYsk2Jc"
+},
+{
+  "title": "Mayura Park Bar & Restaurant",
+  "categoryName": "Bar",
+  "address": "WGFX+4HF, Bhuvaneshwari Nagar, Banashankari, Bengaluru, Karnataka 560085, India",
+  "phone": "+91 96204 07715",
+  "location": {
+    "lat": 12.9228224,
+    "lng": 77.5489297
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:30 AM to 1 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:30 AM to 1 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:30 AM to 1 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:30 AM to 1 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:30 AM to 1 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8:30 AM to 1 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8:30 AM to 1 AM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Mayura%20Park%20Bar%20%26%20Restaurant&query_place_id=ChIJmQ7AXzI-rjsR3iUtXeVthns"
+},
+{
+  "title": "Narmada Restaurant Rajaji Nagar",
+  "categoryName": "Andhra restaurant",
+  "address": "706, 1st Floor, WCR 2nd Stage, 9th Cross, Dr MC Modi Hospital Rd, Bengaluru, Karnataka 560086, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9975916,
+    "lng": 77.5474024
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10:30 AM to 2 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10:30 AM to 2 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10:30 AM to 2 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10:30 AM to 2 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10:30 AM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10:30 AM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10:30 AM to 2 AM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Narmada%20Restaurant%20Rajaji%20Nagar&query_place_id=ChIJPzvaJTM9rjsROmK-rW3gTTM"
+},
+{
+  "title": "FERMENT ( RESTO BAR )",
+  "categoryName": "Beer hall",
+  "address": "311, Outer Ring Rd, Kathriguppe IV Phase, Gururaja Layout, Banashankari, Bengaluru, Karnataka 560070, India",
+  "phone": "+91 99008 18163",
+  "location": {
+    "lat": 12.9220075,
+    "lng": 77.5584411
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 1 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 1 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 1 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 1 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 1 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 1 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 1 AM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=FERMENT%20(%20RESTO%20BAR%20)&query_place_id=ChIJw1NdO_Q_rjsRHZ8q2rsR9H0"
+},
+{
+  "title": "Le Arabia Restaurant Basaveshwar Nagar",
+  "categoryName": "Restaurant",
+  "address": "881, B-1, B-1, WOC, Bimajyothi LIC Colony, Stage 2, Basaveshwar Nagar, Bengaluru, Karnataka 560086, India",
+  "phone": "+91 80 2323 3000",
+  "location": {
+    "lat": 12.9984694,
+    "lng": 77.542375
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11:30 AM to 1 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11:30 AM to 1 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11:30 AM to 1 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11:30 AM to 1 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11:30 AM to 1 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11:30 AM to 1 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11:30 AM to 1 AM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Le%20Arabia%20Restaurant%20Basaveshwar%20Nagar&query_place_id=ChIJnYbpfZc9rjsRmxqDBln9H0k"
+},
+{
+  "title": "Brahma Bowl",
+  "categoryName": "Vegetarian restaurant",
+  "address": "24, CJ Venkatesh Das Rd, Padmanabhanagar, Bengaluru, Karnataka 560070, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9185056,
+    "lng": 77.5584089
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11:30 AM to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11:30 AM to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11:30 AM to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11:30 AM to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11:30 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11:30 AM to 11:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Brahma%20Bowl&query_place_id=ChIJvYMZwY0_rjsRMBQpqDwnn5U"
+},
+{
+  "title": "Nandhini Deluxe - Andhra Restaurant - Banashankari",
+  "categoryName": "Andhra restaurant",
+  "address": "108, Outer Ring Rd, near Devegowda Petrol Bunk, Kathreguppe, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085, India",
+  "phone": "+91 80 2689 0011",
+  "location": {
+    "lat": 12.9223921,
+    "lng": 77.5575714
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11:30 AM to 4:30 PM, 6:30 PM to 12 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11:30 AM to 4:30 PM, 6:30 PM to 12 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11:30 AM to 4:30 PM, 6:30 PM to 12 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11:30 AM to 4:30 PM, 6:30 PM to 12 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11:30 AM to 4:30 PM, 6:30 PM to 12 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11:30 AM to 4:30 PM, 6:30 PM to 12 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11:30 AM to 4:30 PM, 6:30 PM to 12 AM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Nandhini%20Deluxe%20-%20Andhra%20Restaurant%20-%20Banashankari&query_place_id=ChIJ5xJz9jE-rjsRitiiMZWmn6A"
+},
+{
+  "title": "Paradise Premium Family Restaurant",
+  "categoryName": "Hyderabadi restaurant",
+  "address": "Shop No.224/Y, 2nd Main, 4th Phase, Outer Ring Rd, 7 Block, Banagirinagara, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085, India",
+  "phone": "+91 95354 74849",
+  "location": {
+    "lat": 12.9235783,
+    "lng": 77.5550606
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 11:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Paradise%20Premium%20Family%20Restaurant&query_place_id=ChIJqW8VZiw-rjsR2r5Ypk2Pf4c"
+},
+{
+  "title": "King Fish",
+  "categoryName": "Seafood restaurant",
+  "address": "14 &15, 3rd Main Rd, Near Coconut Garden, New Income Tax Layout, Jyothi Nagar, Maruthi Nagar, Naagarabhaavi, Bengaluru, Karnataka 560072, India",
+  "phone": "+91 80 2318 6179",
+  "location": {
+    "lat": 12.9608284,
+    "lng": 77.5205787
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 11 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=King%20Fish&query_place_id=ChIJ3zETIH8-rjsRaLqExNEu8e4"
+},
+{
+  "title": "Nakshatra Bar & Restaurant",
+  "categoryName": "Bar",
+  "address": "42, Pattegarhpalya Main Road, 60 Feet Road, Pattegarhpalya, Srinivas Nagara, Bengaluru, Karnataka 560079, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9765636,
+    "lng": 77.5237315
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 11:20 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 11:20 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 11:20 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 11:20 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 11:20 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 11:20 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 11:20 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Nakshatra%20Bar%20%26%20Restaurant&query_place_id=ChIJZVeZR849rjsRuqWiMP4x86g"
+},
+{
+  "title": "Nammane Oota Hotel",
+  "categoryName": "Biryani restaurant",
+  "address": "No 380, Service Road, Vinayaka Layout, Govindaraja Nagar Ward, 2 Stage, Naagarabhaavi, Bengaluru, Karnataka 560072, India",
+  "phone": "+91 97313 04356",
+  "location": {
+    "lat": 12.9631803,
+    "lng": 77.5121223
+  },
+  
+  "openingHours": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Nammane%20Oota%20Hotel&query_place_id=ChIJM7pL24E-rjsRveSCYhpmEzc"
+},
+{
+  "title": "West View Bar and Restaurant",
+  "categoryName": "Bar",
+  "address": "1st Block, 31/S, 2nd Stage, Gangondanahalli, Chandra Layout, Bengaluru, Karnataka 560040, India",
+  "phone": "+91 96635 66700",
+  "location": {
+    "lat": 12.9585823,
+    "lng": 77.526758
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 1 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 1 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 1 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 1 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 1 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 1 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 1 AM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=West%20View%20Bar%20and%20Restaurant&query_place_id=ChIJUQf7-Xk-rjsRbGi7jDGbb88"
+},
+{
+  "title": "California Burrito Mexican Grill @ Gandhi Bazaar",
+  "categoryName": "Fast food restaurant",
+  "address": "Gandhi Bazaar Main Rd, next to McDonalds, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004, India",
+  "phone": "+91 80 4709 1118",
+  "location": {
+    "lat": 12.9471769,
+    "lng": 77.5691031
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 11 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=California%20Burrito%20Mexican%20Grill%20%40%20Gandhi%20Bazaar&query_place_id=ChIJJaMgRo8VrjsRnk-bexJChLU"
+},
+{
+  "title": "RamaKrishna Cafe Restaurant",
+  "categoryName": "Restaurant",
+  "address": "30/2, Surveyor Street, DVG Gundappa Rd, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004, India",
+  "phone": "+91 83174 42430",
+  "location": {
+    "lat": 12.9475562,
+    "lng": 77.5715834
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 11 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=RamaKrishna%20Cafe%20Restaurant&query_place_id=ChIJHceouxMVrjsRLkd6OMvriIA"
+},
+{
+  "title": "SLV CORNER VEG RESTAURANT",
+  "categoryName": "Karnataka restaurant",
+  "address": "No. 42, Ramakrishna Ashram Circle, Vanvilas Road, Basavanagudi, Vanivilas Road, Bengaluru, Karnataka 560004, India",
+  "phone": "+91 99804 14209",
+  "location": {
+    "lat": 12.9483513,
+    "lng": 77.5686397
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 10:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=SLV%20CORNER%20VEG%20RESTAURANT&query_place_id=ChIJSz229u0VrjsRUetokbXcZ1A"
+},
+{
+  "title": "Rasoi Restaurant",
+  "categoryName": "Family restaurant",
+  "address": "XH3J+WWV, Lalbagh Fort Rd, Doddamavalli, Sudhama Nagar, Bengaluru, Karnataka 560002, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9548685,
+    "lng": 77.5823019
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 11:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Rasoi%20Restaurant&query_place_id=ChIJa5SJe-gVrjsR0KnAsi2Oro4"
+},
+{
+  "title": "Surya Deluxe",
+  "categoryName": "Restaurant",
+  "address": "XG59+FPR, Nagarabhavi Circle, Nagarabhavi, Nagarabhavi Main Rd, Jyothi Nagar, Stage 2, Chandra Layout, Bengaluru, Karnataka 560072, India",
+  "phone": "+91 98455 96402",
+  "location": {
+    "lat": 12.958747,
+    "lng": 77.5192641
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 11:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Surya%20Deluxe&query_place_id=ChIJR0fFh34-rjsR0HpO4nV71_o"
+},
+{
+  "title": "Baisakhi",
+  "categoryName": "Punjabi restaurant",
+  "address": "112, Gandhi Bazaar Main Rd, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9464312,
+    "lng": 77.5702722
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 4 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 4 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 4 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 4 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 4 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 4 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 4 PM, 7 to 11 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Baisakhi&query_place_id=ChIJtRgsB_MVrjsRP5zTbJyw_pk"
+},
+{
+  "title": "Deewar",
+  "categoryName": "Fine dining restaurant",
+  "address": "Sri Ranga Complex, 1210/D, 80 Feet Rd, 2nd Block, Nagarbhavi 1st Stage, 2nd Stage, Chandra Layout, Bengaluru, Karnataka 560040, India",
+  "phone": "+91 80 2321 6659",
+  "location": {
+    "lat": 12.9583464,
+    "lng": 77.525856
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11:30 AM to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11:30 AM to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11:30 AM to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11:30 AM to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11:30 AM to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11:30 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11:30 AM to 11:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Deewar&query_place_id=ChIJ7xc1ink-rjsRF9kulQKArqQ"
+},
+{
+  "title": "Sri Prathiba Restaurant",
+  "categoryName": "Breakfast restaurant",
+  "address": "29, Dispensary Rd, Kalasipalya, Bengaluru, Karnataka 560002, India",
+  "phone": "+91 77957 67623",
+  "location": {
+    "lat": 12.9574327,
+    "lng": 77.5766452
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 6 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Sri%20Prathiba%20Restaurant&query_place_id=ChIJW8LoWOQVrjsRuyqay_xjqIw"
+},
+{
+  "title": "Krishna Rajasthan restaurant",
+  "categoryName": "Rajasthani restaurant",
+  "address": "36, Tent Rd, Govindaraja Nagar Ward, Mudalapalya, Vijayanagar, Bengaluru, Karnataka 560040, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9736773,
+    "lng": 77.5225527
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10:30 AM to 4:30 a.m."
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10:30 AM to 4 a.m."
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10:30 AM to 4 a.m."
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 4:30 a.m."
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 4 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Krishna%20Rajasthan%20restaurant&query_place_id=ChIJaci7TLQ9rjsRB1pKjvOUmBs"
+},
+{
+  "title": "New Banashankari Donne Biriyani",
+  "categoryName": "Biryani restaurant",
+  "address": "135, 9th Cross Rd, Chamrajpet, Bengaluru, Karnataka 560018, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9580663,
+    "lng": 77.5593319
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 9:30 a.m."
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 9:30 a.m."
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 9:30 a.m."
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 9:30 a.m."
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 9:30 a.m."
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 9:30 a.m."
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 9:30 a.m."
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=New%20Banashankari%20Donne%20Biriyani&query_place_id=ChIJR74GRWs_rjsR4wn3SXwh5rA"
+},
+{
+  "title": "Pooja Restaurant",
+  "categoryName": "Restaurant",
+  "address": "XG5F+P3H, 2nd Block, Maruthi Nagar, Chandra Layout, Bengaluru, Karnataka 560072, India",
+  "phone": "+91 94488 79966",
+  "location": {
+    "lat": 12.959318,
+    "lng": 77.5227308
+  },
+  
+  "openingHours": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Pooja%20Restaurant&query_place_id=ChIJu3QQf38_rjsR9FTxlxeBQ4I"
+},
+{
+  "title": "Ashwa Fine Dine Bar & Kitchen",
+  "categoryName": "Restaurant",
+  "address": "#1&2, RBR Arcade, 1st B Cross, S.V.G. Nagar, Mudalapalya, Bengaluru, Karnataka 560072, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9713412,
+    "lng": 77.5249288
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 11:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Ashwa%20Fine%20Dine%20Bar%20%26%20Kitchen&query_place_id=ChIJK5XH49A9rjsRz2H0PHbwB0k"
+},
+{
+  "title": "Hotel Shanthi Sagar",
+  "categoryName": "South Indian restaurant",
+  "address": "3, Mahant Layout, Bull Temple Rd, Bengaluru, Karnataka 560019, India",
+  "phone": "+91 98804 89627",
+  "location": {
+    "lat": 12.9537334,
+    "lng": 77.5673302
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7 AM to 10 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Shanthi%20Sagar&query_place_id=ChIJybu7TfcVrjsRQ9EjptpZn8A"
+},
+{
+  "title": "Ron Inn Multicuisine Family Restaurant",
+  "categoryName": "North Indian restaurant",
+  "address": "No. 236, 12 Block BDA layout, BDA Layout, 2nd Stage, Naagarabhaavi, Bengaluru, Karnataka 560072, India",
+  "phone": "+91 98802 93536",
+  "location": {
+    "lat": 12.960535,
+    "lng": 77.512718
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 12 a.m."
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 12 a.m."
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 12 a.m."
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 12 a.m."
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 12 a.m."
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 12 a.m."
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 12 a.m."
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Ron%20Inn%20Multicuisine%20Family%20Restaurant&query_place_id=ChIJeUTru9A9rjsR-KoSB1EQ69A"
+},
+{
+  "title": "Shahi Taj Restaurant",
+  "categoryName": "Biryani restaurant",
+  "address": "No 48, Dispensary Rd, Kalasipalya, Bengaluru, Karnataka 560002, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9580076,
+    "lng": 77.5762946
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 10:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Shahi%20Taj%20Restaurant&query_place_id=ChIJO8GvWRAVrjsRlhLbbSU615Y"
+},
+{
+  "title": "M D Saad And Bro's restaurant",
+  "categoryName": "Restaurant",
+  "address": "Azadnagar, 158/7, Bangalore - Mysore Rd, Valmiki Nagar, Azad Nagar, Bengaluru, Karnataka 560018, India",
+  "phone": "+91 88929 24913",
+  "location": {
+    "lat": 12.9575899,
+    "lng": 77.5547538
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 12 a.m."
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 12 a.m."
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 12 a.m."
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 12 a.m."
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 12 a.m."
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 12 a.m."
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 12 a.m."
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=M%20D%20Saad%20And%20Bro's%20restaurant&query_place_id=ChIJFdGiQgQ-rjsRGk3kuDafmeY"
+},
+{
+  "title": "Jain And Veg Cuisines",
+  "categoryName": "Vegetarian restaurant",
+  "address": "96, Kavi Lakshmisha Rd, Parvathipuram, Vishweshwarapura, Shankarapura, Bengaluru, Karnataka 560004, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9504352,
+    "lng": 77.5754958
+  },
+  
+  "openingHours": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Jain%20And%20Veg%20Cuisines&query_place_id=ChIJqZC6aO4VrjsRLYqXubwo4pk"
+},
+{
+  "title": "New Thalassery Restaurant( Kerala food)",
+  "categoryName": "Kerala restaurant",
+  "address": "City Tower, Dispensary Road, 2nd Main Rd, Near Hotel, Kalasipalya, Bengaluru, Karnataka 560002, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9588031,
+    "lng": 77.5762995
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7 AM to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7 AM to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7 AM to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7 AM to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7 AM to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7 AM to 11:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=New%20Thalassery%20Restaurant(%20Kerala%20food)&query_place_id=ChIJQ45PA8MVrjsR4QINxDqSIwU"
+},
+{
+  "title": "Burger King",
+  "categoryName": "Fast food restaurant",
+  "address": "59/3W, Gandhi Bazaar WN 49, W Anjaneya Temple St, Basavanagudi, Bengaluru, Karnataka 560004, India",
+  "phone": "+91 89767 70054",
+  "location": {
+    "lat": 12.9458965,
+    "lng": 77.56869
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7 AM to 2 a.m."
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7 AM to 2 a.m."
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7 AM to 2 a.m."
+    },
+    {
+      "day": "Thursday",
+      "hours": "7 AM to 2 a.m."
+    },
+    {
+      "day": "Friday",
+      "hours": "7 AM to 2 a.m."
+    },
+    {
+      "day": "Saturday",
+      "hours": "7 AM to 2 a.m."
+    },
+    {
+      "day": "Sunday",
+      "hours": "7 AM to 2 a.m."
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJD6IaDPoVrjsRPYcB5QmLwLU"
+},
+{
+  "title": "Chamarajpet Kabab Restaurant!",
+  "categoryName": "Kebab shop",
+  "address": "13/2, 9th Cross Rd, Kaniyara Colony, Ramachandra Agrahara, Azad Nagar, Bengaluru, Karnataka 560018, India",
+  "phone": "+91 97418 26260",
+  "location": {
+    "lat": 12.9588025,
+    "lng": 77.5593061
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 11:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Chamarajpet%20Kabab%20Restaurant!&query_place_id=ChIJhUNwKwI-rjsRV6Pmo08qOOE"
+},
+{
+  "title": "Ice Thunder on Wheels",
+  "categoryName": "Fast food restaurant",
+  "address": "National college flyover Cool corner, Bengaluru, Karnataka 560004, India",
+  "phone": "+91 96864 76733",
+  "location": {
+    "lat": 12.9483179,
+    "lng": 77.5737859
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 PM to 1 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "3 to 6 AM, 10 PM to 1 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "3 to 6 AM, 10 PM to 1 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "3 to 6 AM, 10 PM to 1 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "3 to 6 AM, 10 PM to 1 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "3 to 6 AM, 10 PM to 1 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "3 to 6 AM, 10 PM to 1 AM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Ice%20Thunder%20on%20Wheels&query_place_id=ChIJqcL_rf0VrjsRTNCLus2JAKw"
+},
+{
+  "title": "Subway",
+  "categoryName": "Sandwich shop",
+  "address": "41-1, Bull Temple Rd, Sunkenahalli, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004, India",
+  "phone": "+91 80 4140 0246",
+  "location": {
+    "lat": 12.944608,
+    "lng": 77.5679838
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 2 a.m."
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ3bnIWfMVrjsRIEYUzQXIw4E"
+},
+{
+  "title": "Pramukh Family Restaurant - Prassidhi Enterprises",
+  "categoryName": "Family restaurant",
+  "address": "5, Mallaraiah Complex, 1st Floor, Gandhi Bazaar Main Rd, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004, India",
+  "phone": "+91 80 2662 2484",
+  "location": {
+    "lat": 12.9441744,
+    "lng": 77.5726615
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 12 a.m."
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 12 a.m."
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 12 a.m."
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 12 a.m."
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 12 a.m."
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 12 a.m."
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 12 a.m."
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Pramukh%20Family%20Restaurant%20-%20Prassidhi%20Enterprises&query_place_id=ChIJP1r3wfIVrjsRSUS_Vp88_nU"
+},
+{
+  "title": "Skylines Bar & Restaurant",
+  "categoryName": "Bar",
+  "address": "184, Near Kalasipalayam Bus Stand, Kalasipalyam Main Road, Kalasipalayam, Bengaluru, Karnataka 560002, India",
+  "phone": "+91 80 2670 9519",
+  "location": {
+    "lat": 12.9565871,
+    "lng": 77.5775311
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 1 a.m."
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 1 a.m."
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 1 a.m."
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 1 a.m."
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 1 a.m."
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 1 a.m."
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 1 a.m."
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Skylines%20Bar%20%26%20Restaurant&query_place_id=ChIJEXMAueUVrjsR3tN8EwBV_Qg"
+},
+{
+  "title": "Rekha Bar And Restaurant",
+  "categoryName": "Bar",
+  "address": "469, 1st Cross, Ramanjaneya Rd, Srinagar, Kempegowda Nagar, Bengaluru, Karnataka 560050, India",
+  "phone": null,
+  "location": {
+    "lat": 12.9443676,
+    "lng": 77.5572198
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 11:30 PM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Rekha%20Bar%20And%20Restaurant&query_place_id=ChIJ91z8OB8-rjsRFU6AyCB2vD4"
+},
+{
+  "title": "FOOD ADDA BANGALORE",
+  "categoryName": "Fast food restaurant",
+  "address": "18/1 ground floor, BBMP south, Bull Temple Rd, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004, India",
+  "phone": "+91 86609 32449",
+  "location": {
+    "lat": 12.9467523,
+    "lng": 77.5679746
+  },
+  
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 PM to 12 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 PM to 12 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 PM to 12 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 PM to 12 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 PM to 1 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 PM to 1 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 PM to 1 AM"
+    }
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=FOOD%20ADDA%20BANGALORE&query_place_id=ChIJa3q8a6wVrjsR0LnCOSvjHcU"
+}]

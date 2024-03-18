@@ -1,27 +1,38 @@
 from django.db import models
 import google.generativeai as genai
 import google.ai.generativelanguage as glm
+
 import csv,json
+import os
 import textwrap
-from .places import places
-gApi = "AIzaSyB-Uf2DfhX7w5d13ViQ5Cxj3nUFkSU5z2s"
+from dotenv import load_dotenv
+load_dotenv()
+gApi = os.environ.get('gApi')
 
 genai.configure(api_key=gApi)
 
+places  = ''
+with open('./backend/places.csv', mode="r") as file:
+    reader = csv.reader(file)
+    next(reader)  # Skip the header row
+    for idx, row in enumerate(reader, start=1):
+        place_name = row[0]
+        duration = row[1]
+        cost = row[2]
+        places += f"{idx}. {place_name} - Duration: {duration} hours, Cost: ${cost}\n"
 
-
-# activities = glm.Schema(
-#     type = glm.Type.ARRAY,
-#     items = glm.Schema(
-#     type = glm.Type.OBJECT,
-#     properties = {
-#         'name' : glm.Schema(type=glm.Type.STRING),
-#         'duration': glm.Schema(type=glm.Type.INTEGER),
-#         'budget':glm.Schema(type=glm.Type.INTEGER)
-#         },
-#     required = ['name','duration','budget']
-#     ) 
-# )
+activities = glm.Schema(
+    type = glm.Type.ARRAY,
+    items = glm.Schema(
+    type = glm.Type.OBJECT,
+    properties = {
+        'name' : glm.Schema(type=glm.Type.STRING),
+        'duration': glm.Schema(type=glm.Type.INTEGER),
+        'budget':glm.Schema(type=glm.Type.INTEGER)
+        },
+    required = ['name','duration','budget']
+    ) 
+)
 
 params = glm.Schema(
     type = glm.Type.OBJECT,
@@ -30,19 +41,6 @@ params = glm.Schema(
         'budget': glm.Schema(type=glm.Type.INTEGER)
     }
 )       
-
-row = glm.Schema(
-    type = glm.Type.OBJECT,
-    property = {
-        'activity' : glm.Schema(type = glm.Type.STRING),
-        'timeframe' : glm.Schema(type=glm.Type.STRING),
-    }
-)
-
-itinerary = glm.Schema(
-    type = glm.Type.ARRAY,
-    item = row
-)
 
 findparams = glm.FunctionDeclaration(
     name = "findparams",
@@ -57,25 +55,22 @@ findparams = glm.FunctionDeclaration(
     )
 )
 
-# add_to_db = glm.FunctionDeclaration(
-#     name = "add_to_db",
-#     description=textwrap.dedent("""\
-#         Adds entities to the database.
-#         """),
-#     parameters = glm.Schema(
-#         type = glm.Type.OBJECT,
-#         properties = {
-#             'places' : activities
-#         }
-#     )
-# )
-
-
-
+add_to_db = glm.FunctionDeclaration(
+    name = "add_to_db",
+    description=textwrap.dedent("""\
+        Adds entities to the database.
+        """),
+    parameters = glm.Schema(
+        type = glm.Type.OBJECT,
+        properties = {
+            'places' : activities
+        }
+    )
+)
 
 class ActivityRecommendation(genai.GenerativeModel):
     def __init__(self):
-        super().__init__('gemini-1.0-pro',tools=[findparams])
+        super().__init__('gemini-1.0-pro',tools=[add_to_db,findparams])
 
     def breakdown(self,request):
 
@@ -91,37 +86,36 @@ class ActivityRecommendation(genai.GenerativeModel):
     def gensets(self,budget,duration):
 
 
-#         prompt = '''
-# Given a list of places with their durations and costs, find the best combination of places to visit within a total duration of X hours and a total budget of Y dollars. Maximize the number of places visited while staying within the constraints.\n''' + places + f'''
-# Total Duration: 10 hours
-# Total Budget: 200 dollars
+        prompt = '''
+Given a list of places with their durations and costs, find the best combination of places to visit within a total duration of X hours and a total budget of Y dollars. Maximize the number of places visited while staying within the constraints.\n''' + places + f'''
+Total Duration: {duration}
+Total Budget:   {budget}
 
 
-# Please add the places to the databases.
-# '''
-
-#         response = self.generate_content(prompt)
-#         print(response)
-#         fc = response.candidates[0].content.parts[0].function_call
-#         parsed = type(fc).to_dict(fc)
-#         return parsed
+Please add the places to the databases.
+'''
+        print(prompt)
+        response = self.generate_content(prompt)
+        fc = response.candidates[0].content.parts[0].function_call
+        parsed = type(fc).to_dict(fc)
+        return parsed
 
     # Sort places by cost in ascending order
-            sorted_places = sorted(places, key=lambda x: x['Cost'])
+            # sorted_places = sorted(places, key=lambda x: x['Cost'])
 
-            max_places = []
-            total_duration = 0
-            total_cost = 0
+            # max_places = []
+            # total_duration = 0
+            # total_cost = 0
 
-            # Iterate over sorted places
-            for place in sorted_places:
-                if total_duration + place['Duration'] <= duration and total_cost + place['Cost'] <= budget:
-                    # Add the place if constraints are met
-                    max_places.append(place)
-                    total_duration += place['Duration']
-                    total_cost += place['Cost']
+            # # Iterate over sorted places
+            # for place in sorted_places:
+            #     if total_duration + place['Duration'] <= duration and total_cost + place['Cost'] <= budget:
+            #         # Add the place if constraints are met
+            #         max_places.append(place)
+            #         total_duration += place['Duration']
+            #         total_cost += place['Cost']
 
-            return max_places
+            # return max_places
 
 
 
