@@ -42,6 +42,19 @@ params = glm.Schema(
     }
 )       
 
+row = glm.Schema(
+    type = glm.Type.OBJECT,
+    properties = {
+        'activity' : glm.Schema(type = glm.Type.STRING),
+        'timeframe' : glm.Schema(type=glm.Type.STRING),
+    }
+)
+
+itinerary = glm.Schema(
+    type = glm.Type.ARRAY,
+    items = row
+)
+
 findparams = glm.FunctionDeclaration(
     name = "findparams",
     description=textwrap.dedent("""\
