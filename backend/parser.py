@@ -37,7 +37,7 @@ class TravelPlanner:
 
         # First, prioritize filling the budget constraint with a mix of places including restaurants and bars
         for place in sorted_places:
-            if total_cost + place['price'] <= self.max_cost + cost_tolerance:
+            if total_cost + place['price'] <= self.max_cost + cost_tolerance and total_duration < self.max_duration:
                 # Calculate the estimated travel time to the current place
                 if max_places:
                     distance_to_place = geodesic((max_places[-1]['location']['lat'], max_places[-1]['location']['lng']), 
@@ -47,7 +47,7 @@ class TravelPlanner:
                     travel_time = 0
                 
                 # Add the place if the cost constraint allows
-                if total_duration + travel_time + place['time'] <= self.max_duration + duration_tolerance:
+                if total_duration + travel_time + place['time'] <= self.max_duration:
                     max_places.append(place)
                     total_cost += place['price']
                     total_duration += travel_time + place['time']
@@ -79,3 +79,6 @@ class TravelPlanner:
         for i in path:
             i[0].pop("location")
         return path, total_duration, total_cost, total_distance
+    
+
+
