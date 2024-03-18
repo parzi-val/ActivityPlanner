@@ -1,26 +1,21 @@
-from .serializers import OrderEnlistingSerializer
-from .models import OrderEnlisting
+from .models import ActivityRecommendation
 from rest_framework import generics
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
+import json
+model = ActivityRecommendation()
+
 
 
 
 class LLM(APIView):
     def post(self,request,format = None):
+
+
         data = request.data
-        origin = request.headers.get('Origin')
-        processed_data = {
-            "result" : data.get("param1","")+data.get("param2",""),"origin" : origin
-        }
+        print(data.get("text"))
+        pre = model.breakdown(data.get("text"))["args"]["params"]
+        processed_data = model.gensets(pre["budget"],pre["duration"])["args"]["places"]
         return Response(processed_data, status=status.HTTP_200_OK)
 
-
-class OrderEnlistingList(generics.ListAPIView):
-    queryset = OrderEnlisting.objects.all()
-    serializer_class = OrderEnlistingSerializer
-
-class OrderEnlistingDetail(generics.RetrieveAPIView):
-    queryset = OrderEnlisting.objects.all()
-    serializer_class = OrderEnlistingSerializer
