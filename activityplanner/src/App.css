@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  margin-bottom:15%;
 }
 
 .logo {
@@ -40,3 +41,234 @@
 .read-the-docs {
   color: #888;
 }
+body {
+  font-family: 'EB Garamond', serif;
+  text-align: center;
+  letter-spacing: 2.5px;
+  animation: theme 21s linear infinite;
+  margin: 0; /* Reset default margin */
+}
+
+body::after,
+body::before {
+  content: '';
+  display: block;
+  position: fixed;
+  z-index: -2;
+  top: 0;
+  width: 100vmax;
+  height: 100vmax;
+  background: rgba(0,0,0,0.05);
+  animation: background 90s linear infinite;
+}
+
+body::after {
+  left: 15vw;
+}
+
+body::before {
+  right: 15vw;
+  animation-delay: -30s;
+  animation-direction: reverse;
+}
+
+@keyframes theme {
+  0% {
+      background: #a863ec
+  }
+
+  16% {
+      background: #957DAD;
+  }
+
+  33% {
+      background: #D291BC;
+  }
+
+  50% {
+      background: #FEC8D8;
+  }
+
+  66% {
+      background: #D291BC;
+  }
+
+  83% {
+      background: #957DAD;
+  }
+
+  100% {
+      background: #a863ec;
+  }
+}
+
+@keyframes background {
+  0% {
+      transform: rotate(0deg);
+  }
+
+  100% {
+      transform: rotate(360deg);
+  }
+}
+
+.header {
+  margin-top: 50px;
+  color: #ffffff;
+}
+
+.heading-primary-main {
+  font-size: 50px;
+}
+
+.heading-primary-sub {
+  font-size: 25px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+.form__group {
+  margin-bottom: 20px;
+}
+
+.form__field {
+  font-family: inherit;
+  width: 80%;
+  border: 0;
+  border-bottom: 2px solid #9b9b9b;
+  outline: 0;
+  font-size: 1.3rem;
+  color: #fff;
+  padding: 7px 0;
+  background: transparent;
+  transition: border-color 0.2s;
+}
+
+.form__field:focus {
+  border-bottom: 2px solid #11998e;
+}
+
+.form__field::placeholder {
+  color: gray;
+  transition: color 0.2s;
+}
+
+.form__field:placeholder-shown + .form__label {
+  font-size: 1rem;
+  cursor: text;
+  top: 20px;
+}
+
+.form__label {
+  position: absolute;
+  top: 20px;
+  display: block;
+  transition: top 0.2s, font-size 0.2s, color 0.2s;
+  font-size: 1rem;
+  color: #9b9b9b;
+}
+
+.form__field:focus + .form__label {
+  font-size: 1rem;
+  color: #11998e;
+  top: 0;
+  font-weight: 700;
+  transition: top 0.2s, font-size 0.2s, color 0.2s;
+}
+
+.custom-button {
+  padding: 15px 30px;
+  font-size: 1.2em;
+  background-color: #ffffff73;
+  color: #0f0000;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+  border-radius: 30px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.custom-button:hover {
+  background-color: #7eb9f8;
+  transform: translateY(-3px);
+}
+
+.text-center {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 23px;
+  margin: -50px 0 80px 0;
+  display: block;
+  text-align: center;
+}
+
+.box {
+  display: inline-block; 
+  padding: 20px 400px ;  
+  background-color: rgba(200, 160, 220, 0.5); 
+  border-radius: 10px;
+}
+
+.input-container {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.input-container label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 16px;
+  color: #fff;
+  pointer-events: none;
+  transition: all 0.5s ease-in-out;
+}
+
+.input-container input {
+  border: 0;
+  border-bottom: 1px solid #555;
+  background: transparent;
+  width: 500px; 
+  padding: 8px 40px 8px 20px; 
+  font-size: 16px;
+  color: #fff;
+  outline: none;
+}
+.input-container input:focus {
+  border-bottom: 1px solid #b19cd9;
+}
+
+.custom-button {
+  color: #fff;
+  background-color: #b19cd9;
+  outline: none;
+  border: 0;
+  color: #fff;
+  padding: 12px 24px; /* Increase padding for a larger button */
+  text-transform: uppercase;
+  margin-top: 10px; /* Adjust margin between input and button */
+  border-radius: 20px; /* Adjust border radius for curved edges */
+  cursor: pointer;
+  font-family: 'EB Garamond', serif; /* Use the same font as the body */
+  font-size: 16px; /* Adjust font size as needed */
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.custom-button:hover {
+  background-color: #d5c5f3; /* Lighter shade when hovered */
+  transform: translateY(-3px);
+}
+
+
+
+.input-container input:focus ~ label,
+.input-container input:valid ~ label {
+  top: -12px;
+  font-size: 12px;
+}
+
