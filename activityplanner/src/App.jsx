@@ -1,5 +1,7 @@
 import { useState } from 'react';
 import './App.css';
+import React from 'react';
+import Collapsible from 'react-collapsible';
 
 function App() {
   const [inputText, setInputText] = useState('');
@@ -74,8 +76,13 @@ function App() {
     <div>
       {activities.length > 0 ? (
         activities.map((activity, index) => (
-          <div key={index}>
-            <strong>Name:</strong> {activity.Name}, <strong>Cost:</strong> {activity.Cost}, <strong>Duration:</strong> {activity.Duration}
+          <div key = {index} id="itinerary" className="box-container">
+            
+            <div className="activitybox">
+                <div className="time-frame">{activity.Duration} HOURS</div>
+                <div className="activity">{activity.Name}</div>
+                <div>$ {activity.Cost}</div>
+            </div>
           </div>
         ))
       ) : (
