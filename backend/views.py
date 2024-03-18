@@ -15,6 +15,7 @@ class LLM(APIView):
 
         logger.log(data)
         tokens = llmModel.breakdown(data.get("text"))["args"]["params"]
+        print(tokens)
         model = TravelPlanner(tokens["duration"], tokens["budget"])
         path, total_duration, total_cost, total_distance = model.plan_travel_path(duration_tolerance=2, cost_tolerance=20)
         processed_data = [i[0] for i in path]

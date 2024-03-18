@@ -18,13 +18,13 @@ params = glm.Schema(
         'duration': glm.Schema(type=glm.Type.INTEGER),
         'budget': glm.Schema(type=glm.Type.INTEGER)
     }
-)       
+)
 
 
 findparams = glm.FunctionDeclaration(
     name = "findparams",
     description=textwrap.dedent("""\
-        Find the parameters (budget and duration) from the given string
+        Find the parameters (budget and duration in hours (convert to hours from days if required)) from the given string
         """),
     parameters = glm.Schema(
         type = glm.Type.OBJECT,
@@ -40,7 +40,7 @@ class ActivityRecommendation(genai.GenerativeModel):
 
     def breakdown(self,request):
 
-        prompt= f"""Find the parameters from the given string: {request}"""
+        prompt= f"""Find the parameters from the given string : {request}"""
     
         response = self.generate_content(prompt)
         fc = response.candidates[0].content.parts[0].function_call
