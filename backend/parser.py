@@ -80,5 +80,3 @@ class TravelPlanner:
             i[0].pop("location")
         return path, total_duration, total_cost, total_distance
     
-
-
